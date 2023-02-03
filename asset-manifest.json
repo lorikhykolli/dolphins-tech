@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dolphins-tech/static/css/main.e0928597.css",
+    "main.js": "/dolphins-tech/static/js/main.a1588d44.js",
+    "static/media/kush.png": "/dolphins-tech/static/media/kush.9eeb0b47df9f5971578c.png",
+    "static/media/web.png": "/dolphins-tech/static/media/web.c9462151a156fd9892de.png",
+    "static/media/logo.png": "/dolphins-tech/static/media/logo.c0fbd6c09b0eaf855608.png",
+    "index.html": "/dolphins-tech/index.html",
+    "main.e0928597.css.map": "/dolphins-tech/static/css/main.e0928597.css.map",
+    "main.a1588d44.js.map": "/dolphins-tech/static/js/main.a1588d44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0928597.css",
+    "static/js/main.a1588d44.js"
+  ]
+}
