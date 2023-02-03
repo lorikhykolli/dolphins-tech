@@ -1,0 +1,20 @@
+#vazhdimi1 { 
+    max-height: fit-content;
+    background-color: #00337C;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    padding-left: 5% ; 
+    margin-top: 3x;
+}
+#vazhdimi1 h3{ 
+    height: auto;
+}
+#vazhdimi1 .ikonat2{ 
+    padding-left: 100px;
+    font-size: 40px;
+}
+.row { 
+    height: auto;
+    width: auto;
+}

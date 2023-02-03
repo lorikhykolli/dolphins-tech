@@ -1,0 +1,25 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+img { 
+    height: 80px;
+    width: 200px;
+
+}
+.ms-auto { 
+    font-size: 15px;
+    font-weight: 700;
+    height: 40px; 
+    padding-right: 300px;
+    justify-content: space-between;
+    text-transform: uppercase;
+    color: #00337C;
+} 
+.ms-auto Nav.Link{ 
+    padding-right: 100px;
+}
+.navbar1 { 
+    background-color: #C1EFFF;
+}

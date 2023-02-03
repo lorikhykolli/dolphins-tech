@@ -1,0 +1,16 @@
+#kontakti1 h1{ 
+    font-size: 200%;
+} 
+
+#kontakti1 { 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 5%;
+} 
+
+#kontakti1 h2 { 
+    font-size: 200%;
+    padding-top: 120px;
+    font-weight: 900;
+    padding-left: 20px;
+}

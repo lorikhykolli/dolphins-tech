@@ -1,0 +1,42 @@
+* { 
+  font-family: 'Montserrat', sans-serif;
+  height: fit-content;
+}
+.row h1 { 
+  font-size: 500%;
+  font-weight: 900;
+  color: #00337C;
+} 
+.row h1:hover{ 
+  color: blue;
+}
+.row i{ 
+  padding-top: 30px;
+}
+.row h6 { 
+  margin-top: 100px; 
+  font-weight: 900;
+  color:#00337C; 
+  font-size: 180%;
+  
+} 
+.row h2 { 
+  font-weight: 500;
+  font-size: 110%;
+}
+.titulli-rend{ 
+  margin-left: 100px;
+  margin-top: 20%;
+}
+.title-image { 
+  height: 120%;
+  width: 80%;
+  padding-left: 14%;
+}
+
+.row1 { 
+  background-color: #C1EFFF;
+  margin-bottom: auto;
+  height: fit-content;
+  padding-bottom: 200px;
+}

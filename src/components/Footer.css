@@ -1,0 +1,22 @@
+#footer1 { 
+    height: fit-content; 
+    text-align: center;
+    background-color: #00337C;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#footer1 i{ 
+    font-size: 30px;
+    padding-right: 70px;
+    
+} 
+
+#footer1 p { 
+    padding-top: 10px;
+}
+.ikonat { 
+    font-size: 30px;
+    padding-left: 5%;
+}
